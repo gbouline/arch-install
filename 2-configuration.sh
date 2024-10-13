@@ -34,7 +34,7 @@ pacman -Syy
 # ------------------------------------------------------
 # Install Packages
 # ------------------------------------------------------
-pacman --noconfirm -S grub efibootmgr networkmanager network-manager-applet dialog wpa_supplicant mtools dosfstools avahi xdg-user-dirs xdg-utils gvfs gvfs-smb nfs-utils inetutils dnsutils cups man alsa-utils pipewire pipewire-alsa pipewire-pulse pipewire-jack wireplumber bash-completion acpi acpi_call openbsd-netcat ipset firewalld flatpak sof-firmware nss-mdns acpid os-prober ntfs-3g exa bat htop ranger zip unzip neofetch duf brightnessctl pacman-contrib bluez bluez-utils nvidia nvidia-utils nvidia-settings egl-wayland mesa vulkan-intel vulkan-tools xdg-desktop-portal-hyprland terminus-font btrfs-progs
+pacman --noconfirm -S grub efibootmgr networkmanager network-manager-applet dialog wpa_supplicant mtools dosfstools avahi xdg-user-dirs xdg-utils gvfs gvfs-smb nfs-utils inetutils dnsutils cups man alsa-utils pipewire pipewire-alsa pipewire-pulse pipewire-jack wireplumber bash-completion acpi acpi_call openbsd-netcat ipset firewalld flatpak sof-firmware nss-mdns acpid os-prober ntfs-3g exa bat htop ranger zip unzip neofetch duf brightnessctl pacman-contrib bluez bluez-utils nvidia nvidia-utils nvidia-settings egl-wayland mesa vulkan-intel vulkan-tools xdg-desktop-portal-hyprland terminus-font btrfs-progs zsh oh-my-zsh
 
 # ------------------------------------------------------
 # set lang utf8 US
